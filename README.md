@@ -2,9 +2,10 @@
 Data Analysis on world powerlifting data. Make predictions for new lifters.
 
 As an avid lifer and bodybuilder, I was shocked to notice how much public data on powerlifting was available!
-My initial thought as a Data Scientist, like all would, was to ask the question, "Can we predict a competitor's 1 rep max on each main lift based on their stats?"
+My initial thought as a Data Scientist, like all would, was to ask the question, "Can we predict a competitor's 1-rep max on each main lift based on their stats?"
 
 See the end of this file for some context on powerlifting.
+
 After implementing a prediction model, I hit a dead end as the world of lifting has A LOT of (hold one second) (*clears throat*), A LOTTTTTTT of variability. Genetic freaks of nature exist EVERYWHERE in the lifting world. This inevitably makes the prediction problem extremely difficult to achieve any sort of good accuracy on.
 My implementation turned out to perform very decently, but there was still some error as expected with any Machine Learning problem.
 
