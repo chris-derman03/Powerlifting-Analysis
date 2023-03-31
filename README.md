@@ -6,7 +6,7 @@ My initial thought as a Data Scientist, like all would, was to ask the question,
 
 See the end of this file for some context on powerlifting.
 
-After implementing a prediction model, I hit a dead end as the world of lifting has A LOT of (hold one second) (*clears throat*), A LOTTTTTTT of variability. Genetic freaks of nature exist EVERYWHERE in the lifting world. This inevitably makes the prediction problem extremely difficult to achieve any sort of good accuracy on.
+After implementing a prediction model, I hit a dead end as the world of lifting has A LOT of (hold on one second) (*clears throat*), A LOTTTTTTT of variability. Genetic freaks of nature exist EVERYWHERE in the lifting world. This inevitably makes the prediction problem extremely difficult to achieve any sort of good accuracy on.
 My implementation turned out to perform very decently, but there was still some error as expected with any Machine Learning problem.
 
 However, I noticed that this was actually a good thing. Using some logic, there is a very useful implication to this imperfect model! See the jupyter notebook for an in-depth explanation.
